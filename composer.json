@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Smartsupp_LiveChat",
+    "type": "magento-module",
+    "license": "GPL-2.0+",
+    "homepage": "",
+    "description": "Smartsupp Live Chat integration",
+    "authors": [
+    {
+        "name": "Smartsupp",
+        "email": "vladimir@smartsupp.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
